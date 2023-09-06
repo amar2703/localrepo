@@ -1,1 +1,1 @@
-<p>This is a new repo locally created.</p>
+# This is a new repo locally created.
